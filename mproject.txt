@@ -1,9 +1,3 @@
 aaa
 bbb
-ccc
-ddd
-eee
-asdfasdf
-asdfasdf
-asdfas
-asdfas
+cccasdfas
